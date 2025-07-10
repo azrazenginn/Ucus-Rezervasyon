@@ -102,7 +102,7 @@ class yolcu():
 
 while True: 
     kullaniciAdi="azra"               
-    sifre="simurg25"    
+    sifre="0123"    
     
     kulAd=input("Lütfen kullanici adini giriniz: ")
     print("Cikis yapmak icin q tuşlayabilirsiniz.")
